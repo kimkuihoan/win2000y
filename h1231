@@ -1,2 +1,0 @@
-variable = onput()
-print("input string %s, ineger %d" % (variable, int(variable)))
